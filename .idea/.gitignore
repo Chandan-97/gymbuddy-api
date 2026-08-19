@@ -100,3 +100,4 @@ http-client.private.env.json
 /modules.xml
 /inspectionProfiles/profiles_settings.xml
 /vcs.xml
+/claudeCodeEditorTabs.xml
